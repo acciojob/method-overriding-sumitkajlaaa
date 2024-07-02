@@ -5,6 +5,6 @@ public class B extends A{
     //Task 4 of overriding meth function
     @Override
     public String meth(){
-        return "Method is overridden in Extendend class B";
+        return "Method is overridden in Extended class B";
     }
 }
