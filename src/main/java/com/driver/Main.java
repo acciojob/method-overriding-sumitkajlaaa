@@ -10,7 +10,7 @@ public class Main {
     public static class B extends A {
         //Task 4 of overriding meth function
         public String meth(){
-            return "Method is overridden in Extended class B";
+            return "Method is overridden in Extendend class B";
         }
     }
 
